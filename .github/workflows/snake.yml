@@ -1,18 +1,19 @@
-name: Generate Snake
+name: Run Commands in Output Branch
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Atualiza todos os dias à meia-noite UTC
+  push:
+    branches:
+      - output  # Rodará sempre que houver mudanças na branch output
 
 jobs:
-  build:
+  run-commands:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
-      - uses: actions/upload-artifact@v3
-        with:
-          name: snake
-          path: dist
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Run Commands
+        run: |
+          echo "Rodando comandos na branch output!"
+          ls -la  # Lista arquivos
+          git status  # Mostra o status do git
