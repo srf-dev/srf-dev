@@ -25,13 +25,13 @@ Estou aprimorando minhas habilidades em programação, explorando linguagens com
 </ul>
 
 <p>
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin](https://www.linkedin.com/in/shayare-ferreira/?trk=opento_sprofile_topcard)" target="_blank">
+  <a href="https://www.linkedin.com/in/shayare-ferreira/?trk=opento_sprofile_topcard" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://discord.com/users/seu-id/" target="_blank">
+  <a href="https://discord.com/channels/@me/1012463785266663526" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:shayare.r.ferr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
