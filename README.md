@@ -15,13 +15,13 @@
 <!-- Sobre Mim -->
 ## About me
 
-I'm a developer who loves technology, programming, and digital design. I enjoy exploring automation and development, as well as creating functional interfaces and striking visual experiences.
+Sou desenvolvedora que ama tecnologia, programação e design digital. Gosto de explorar automação e desenvolvimento, bem como criar interfaces funcionais e experiências visuais.
 <br><br>
-I'm improving my programming skills, exploring languages ​​such as <b>Python, JavaScript, HTML, and CSS</b>. I'm always looking to learn new technologies and improve my logic.
+Estou aprimorando minhas habilidades de programação, explorando linguagens como <b>Python, JavaScript, HTML e CSS</b>. Estou sempre procurando aprender novas tecnologias e melhorar minha lógica.
 
 <ul style="color:#555B6D;">
-  <li>Studying <b>Information Technology.</b></li>
-  <li>Certificate in <b>Systems Analysis and Development.</b></li>
+  <li>Cursando <b>Tecnologia da Informação.</b></li>
+  <li>Formada em <b>Análise e Desenvolvimento de Sistemas.</b></li>
 </ul>
 
 <p>
