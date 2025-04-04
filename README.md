@@ -13,15 +13,15 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=6F42C1&lines=Hello,+my+name+is+Shayare!;Always+learning!)
 
 <!-- Sobre Mim -->
-## Sobre mim
+## About me
 
-Sou desenvolvedora que ama tecnologia, programação e design digital. Gosto de explorar a automação e o desenvolvimento, e também a criação de interfaces funcionais e experiências visuais marcantes.
+I'm a developer who loves technology, programming, and digital design. I enjoy exploring automation and development, as well as creating functional interfaces and striking visual experiences.
 <br><br>
-Estou aprimorando minhas habilidades em programação, explorando linguagens como <b>Python, JavaScript, HTML e CSS</b>. Busco sempre aprender novas tecnologias e aprimorar minha lógica.
+I'm improving my programming skills, exploring languages ​​such as <b>Python, JavaScript, HTML, and CSS</b>. I'm always looking to learn new technologies and improve my logic.
 
 <ul style="color:#555B6D;">
-  <li>Cursando <b> Tecnologia da Informação. </b></li>
-  <li>Formada em <b> Análise e Desenvolvimento de Sistemas. </b></li>
+  <li>Studying <b>Information Technology.</b></li>
+  <li>Certificate in <b>Systems Analysis and Development.</b></li>
 </ul>
 
 <p>
@@ -37,7 +37,7 @@ Estou aprimorando minhas habilidades em programação, explorando linguagens com
 </p>
 
 ---
-## Tecnologias
+## Tech Stack
 
 <div display="flex">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40px" title="Python"/>
