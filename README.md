@@ -21,7 +21,7 @@ Estou aprimorando minhas habilidades de programação, explorando linguagens com
 
 <ul style="color:#555B6D;">
   <li>Cursando <b>Tecnologia da Informação.</b></li>
-  <li>Formada em <b>Análise e Desenvolvimento de Sistemas.</b></li>
+  <li>Técnica em <b>Análise e Desenvolvimento de Sistemas.</b></li>
 </ul>
 
 <p>
